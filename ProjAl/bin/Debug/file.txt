@@ -1,0 +1,68 @@
+2018-12-14 14:51:56.1266|INFO|ProjAl.Form1|Useri po verifikohet
+2018-12-14 14:51:57.7202|WARN|ProjAl.Form1|Username dhe Password jane vendosur gabim
+2018-12-17 11:01:26.6205|INFO|ProjAl.Form1|Useri po verifikohet
+2018-12-17 11:01:28.3906|INFO|ProjAl.Form1|Useri u autentifikua me sukses
+2018-12-17 11:01:29.4711|INFO|ProjAl.Form2|Merren te gjitha produktet ne db dhe shfaqen ne gride
+2018-12-17 11:01:56.0786|INFO|ProjAl.Form2|therritet Api i klienteve
+2018-12-17 11:01:56.2597|INFO|ProjAl.Form2|Fshihen Klientet nga databaza
+2018-12-17 11:02:20.8791|INFO|ProjAl.Form2|Shtohen klientet e marre ne db
+2018-12-17 11:02:20.9547|INFO|ProjAl.Form2|Merren Klientet nga databaza dhe i shfaqim ne gride
+2018-12-17 11:08:37.6796|INFO|ProjAl.Form1|Useri po verifikohet
+2018-12-17 11:08:38.8939|INFO|ProjAl.Form1|Useri u autentifikua me sukses
+2018-12-17 11:08:40.3470|INFO|ProjAl.Form2|Merren te gjitha produktet ne db dhe shfaqen ne gride
+Button.OnClick => Control.OnClick => Form1.btnlogin_Click_1 Plotesoni Fushat username dhe password
+Button.OnClick => Control.OnClick => Form1.btnlogin_Click_1 Plotesoni Fushat username dhe password
+Button.OnClick => Control.OnClick => Form1.btnlogin_Click_1 Plotesoni Fushat username dhe password
+Button.OnClick => Control.OnClick => Form1.btnlogin_Click_1 Useri po verifikohet
+Button.OnClick => Control.OnClick => Form1.btnlogin_Click_1 Useri u autentifikua me sukses
+Control.OnClick => Form1.btnlogin_Click_1 => Form2..ctor Merren te gjitha produktet ne db dhe shfaqen ne gride
+2018-12-17 12:19:30.7056|INFO|ProjAl.Form1|Plotesoni Fushat username dhe password
+2018-12-17 12:19:52.3437|INFO|ProjAl.Form1|Plotesoni Fushat username dhe password
+2018-12-17 12:20:00.1457|INFO|ProjAl.Form1|Useri po verifikohet
+2018-12-17 12:20:01.6640|INFO|ProjAl.Form1|Useri u autentifikua me sukses
+2018-12-17 12:20:02.5811|INFO|ProjAl.Form2|Merren te gjitha produktet ne db dhe shfaqen ne gride
+2018-12-17 12:22:12.2804|INFO|ProjAl.Form1|Useri po verifikohet
+2018-12-17 12:22:13.5878|INFO|ProjAl.Form1|Useri u autentifikua me sukses
+2018-12-17 12:22:14.9243|INFO|ProjAl.Form2|Merren te gjitha produktet ne db dhe shfaqen ne gride
+2018-12-17 12:23:24.1716|INFO|ProjAl.Form1|Useri po verifikohet
+2018-12-17 12:23:25.2684|INFO|ProjAl.Form1|Useri u autentifikua me sukses
+2018-12-17 12:23:26.7495|INFO|ProjAl.Form2|Merren te gjitha produktet ne db dhe shfaqen ne gride
+2018-12-17 12:25:19.8340 ProjAl.Form1 Plotesoni Fushat username dhe password
+2018-12-17 12:25:26.1961 ProjAl.Form1 Useri po verifikohet
+2018-12-17 12:25:27.4061 ProjAl.Form1 Username dhe Password jane vendosur gabim
+2018-12-17 12:25:34.3598 ProjAl.Form1 Useri po verifikohet
+2018-12-17 12:25:35.6805 ProjAl.Form1 Useri u autentifikua me sukses
+2018-12-17 12:25:37.0639 ProjAl.Form2 Merren te gjitha produktet ne db dhe shfaqen ne gride
+2018-12-17 12:26:19.2370 ProjAl.Form2 therritet Api i klienteve
+2018-12-17 12:26:19.3598 ProjAl.Form2 Fshihen Klientet nga databaza
+2018-12-17 12:26:49.2374 ProjAl.Form2 Shtohen klientet e marre ne db
+2018-12-17 12:26:49.2538 ProjAl.Form2 Merren Klientet nga databaza dhe i shfaqim ne gride
+2018-12-17 12:28:06.9396 ProjAl.Form1 Plotesoni Fushat username dhe password
+2018-12-17 12:28:11.7522 ProjAl.Form1 Useri po verifikohet
+2018-12-17 12:28:12.9772 ProjAl.Form1 Username dhe Password jane vendosur gabim
+2018-12-17 12:29:03.5645|INFO|ProjAl.Form1|Useri po verifikohet
+2018-12-17 12:29:04.8418|INFO|ProjAl.Form1|Useri u autentifikua me sukses
+2018-12-17 12:29:06.0003|INFO|ProjAl.Form2|Merren te gjitha produktet ne db dhe shfaqen ne gride
+2018-12-17 12:29:59.6836|INFO|ProjAl.Form1|Plotesoni Fushat username dhe password
+2018-12-17 12:29:59.6836|INFO|ProjAl.Form1|Plotesoni Fushat username dhe password
+2018-12-17 12:30:06.7823|INFO|ProjAl.Form1|Useri po verifikohet
+2018-12-17 12:30:06.7823|INFO|ProjAl.Form1|Useri po verifikohet
+2018-12-17 12:30:08.0893|INFO|ProjAl.Form1|Useri u autentifikua me sukses
+2018-12-17 12:30:08.0893|INFO|ProjAl.Form1|Useri u autentifikua me sukses
+2018-12-17 12:30:09.4952|INFO|ProjAl.Form2|Merren te gjitha produktet ne db dhe shfaqen ne gride
+2018-12-17 12:30:09.4952|INFO|ProjAl.Form2|Merren te gjitha produktet ne db dhe shfaqen ne gride
+2018-12-17 12:30:44.1302|INFO|ProjAl.Form1|Useri po verifikohet
+2018-12-17 12:30:44.1302|INFO|ProjAl.Form1|Useri po verifikohet
+2018-12-17 12:30:45.4263|INFO|ProjAl.Form1|Useri u autentifikua me sukses
+2018-12-17 12:30:45.4263|INFO|ProjAl.Form1|Useri u autentifikua me sukses
+2018-12-17 12:30:46.5474|INFO|ProjAl.Form2|Merren te gjitha produktet ne db dhe shfaqen ne gride
+2018-12-17 12:30:46.5474|INFO|ProjAl.Form2|Merren te gjitha produktet ne db dhe shfaqen ne gride
+2018-12-17 12:31:58.4722|INFO|ProjAl.Form1|Useri po verifikohet
+2018-12-17 12:31:59.5785|INFO|ProjAl.Form1|Useri u autentifikua me sukses
+2018-12-17 12:32:00.9186|INFO|ProjAl.Form2|Merren te gjitha produktet ne db dhe shfaqen ne gride
+2018-12-17 12:38:11.1578|INFO|ProjAl.Form1|Useri po verifikohet
+2018-12-17 12:38:11.1578|INFO|ProjAl.Form1|Useri po verifikohet
+2018-12-17 12:38:12.5148|INFO|ProjAl.Form1|Useri u autentifikua me sukses
+2018-12-17 12:38:12.5148|INFO|ProjAl.Form1|Useri u autentifikua me sukses
+2018-12-17 12:38:13.5899|INFO|ProjAl.Form2|Merren te gjitha produktet ne db dhe shfaqen ne gride
+2018-12-17 12:38:13.5899|INFO|ProjAl.Form2|Merren te gjitha produktet ne db dhe shfaqen ne gride

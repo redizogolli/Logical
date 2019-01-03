@@ -1,0 +1,24 @@
+2018-12-19 13:48:28.7271|INFO|ProjAl.Form1|Useri po verifikohet
+2018-12-19 13:48:29.8561|INFO|ProjAl.Form1|Useri u autentifikua me sukses
+2018-12-19 13:48:35.4712|INFO|ProjAl.Form2|Krijojme 1 thread te ri per te shfaqur loading
+2018-12-19 13:48:38.9513|INFO|ProjAl.Form2|therritet Api
+2018-12-19 13:48:39.1394|INFO|ProjAl.Form2|fshihen produktet e meparshme 
+2018-12-19 13:48:48.3716|INFO|ProjAl.Form2|Abort threadi
+2018-12-19 13:48:48.3716|INFO|ProjAl.Form2|Insertohen ne db rekordet e reja
+2018-12-19 13:48:51.0273|INFO|ProjAl.Form2|Merren rekordet e reja dhe i shfaqim ne gride
+2018-12-19 13:51:21.5946|INFO|ProjAl.Form2|Krijojme 1 thread te ri per te shfaqur loading
+2018-12-19 13:51:21.6908|INFO|ProjAl.Form2|therritet Api i klienteve
+2018-12-19 13:51:21.7811|INFO|ProjAl.Form2|Fshihen Klientet nga databaza
+2018-12-19 13:51:41.2337|INFO|ProjAl.Form2|Abort threadi
+2018-12-19 13:51:49.6081|INFO|ProjAl.Form2|Shtohen klientet e marre ne db
+2018-12-19 13:51:49.6344|INFO|ProjAl.Form2|Merren Klientet nga databaza dhe i shfaqim ne gride
+2018-12-19 14:15:13.6307|INFO|ProjAl.Form1|Useri po verifikohet
+2018-12-19 14:15:14.6706|INFO|ProjAl.Form1|Useri u autentifikua me sukses
+2018-12-19 14:15:16.9241|INFO|ProjAl.Form2|Krijojme 1 thread te ri per te shfaqur loading
+2018-12-19 14:15:19.3008|INFO|ProjAl.Form2|therritet Api
+2018-12-19 14:15:19.5709|INFO|ProjAl.Form2|fshihen produktet e meparshme 
+2018-12-19 14:15:27.6124|INFO|ProjAl.Form2|Abort threadi
+2018-12-19 14:15:27.6124|INFO|ProjAl.Form2|Insertohen ne db rekordet e reja
+2018-12-19 14:15:29.5759|INFO|ProjAl.Form2|Merren rekordet e reja dhe i shfaqim ne gride
+2018-12-19 15:15:16.6609|INFO|ProjAl.Form1|Useri u largua !
+2018-12-19 15:20:22.0736|INFO|ProjAl.Form1|Useri u largua !

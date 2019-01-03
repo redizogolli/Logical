@@ -1,0 +1,6 @@
+Server:DB\DESKTOP,1133
+Db:projAl
+WindowsAuth:False
+Username:proj
+Password:112233!
+Api:http://192.168.23.52/FashionAPI
