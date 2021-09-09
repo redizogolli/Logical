@@ -18,13 +18,10 @@ namespace ProjAl
 
         string query;
 
-        //private Configcs config=new Configcs();
-        //private Configcs config;
-
         public List<User> ReadAll()
         {
             query = "Select * from dbo.[User] u";
-            using (var connection = new SqlConnection("Data Source=DB\\DESKTOP,1133;Initial Catalog=ProjAl;User Id=proj;Password=112233!;"))
+            using (var connection = new SqlConnection(Configcs.ConnectionString))
             {
                 var users = connection.Query<User>(query).ToList();
                 return users;
@@ -35,10 +32,6 @@ namespace ProjAl
 
         public User GetUser(string usr, string pwd)
         {
-            //  query = "Select * from dbo.[User] u where username=@username and password=@password";
-            //   using (var connection = new SqlConnection("Data Source=DB\\DESKTOP,1133;Initial Catalog=ProjAl;User Id=proj;Password=112233!;"))
-            //config.FillClass();
-            //using (IDbConnection db = new SqlConnection(ConfigurationManager.ConnectionStrings["con"].ConnectionString))
             using (var db = new SqlConnection(Configcs.ConnectionString))
             {
                 try
@@ -46,8 +39,6 @@ namespace ProjAl
                         var user = db.Query<User>("Select * From dbo.[User] u WHERE username = @username and password = @password", new { username = usr, password = pwd }).First();
                         return user;
                     }
-
-                //catch (InvalidOperationException e)
                  catch (Exception e)
                     {
                         return null;

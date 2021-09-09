@@ -64,7 +64,7 @@ namespace ProjAl
         public List<SalesPrice> GetAllSalesPrices()
         {
             string query = "Select * from dbo.[SalesPrice] sp";
-            using (var connection = new SqlConnection("Data Source=DB\\DESKTOP,1133;Initial Catalog=ProjAl;User Id=proj;Password=112233!;"))
+            using (var connection = new SqlConnection(Configcs.ConnectionString))
             {
                 var prices = connection.Query<SalesPrice>(query).ToList();
                 return prices;

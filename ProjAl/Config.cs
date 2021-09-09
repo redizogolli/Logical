@@ -75,7 +75,7 @@ namespace ProjAl
         {
             if (chbwindowsAuth.Checked)
             {
-                if((txtServer.Text == "" || txtServer.Text == null)&& (txtDb.Text == "" || txtDb.Text == null))
+                if(txtServer.Text.IsNullOrEmpty()&& txtDb.Text.IsNullOrEmpty())
                 {
                     MessageBox.Show("Plotesoni Serverin dhe Databazen");
                 }
@@ -93,7 +93,7 @@ namespace ProjAl
             }
             else
             {
-                if ((txtServer.Text == "" || txtServer.Text == null) && (txtDb.Text == "" || txtDb.Text == null)&&(txtUn.Text == "" || txtUn.Text == null) && (txtPass.Text == "" || txtPass.Text == null))
+                if (txtServer.Text.IsNullOrEmpty() && txtDb.Text.IsNullOrEmpty() && txtUn.Text.IsNullOrEmpty() && txtPass.Text.IsNullOrEmpty())
                 {
                     MessageBox.Show("Plotesoni Fushat");
                 }
@@ -158,7 +158,7 @@ namespace ProjAl
                 //WriteConfig();
                 if (chbwindowsAuth.Checked)
                 {
-                    if ((txtServer.Text == "" || txtServer.Text == null) && (txtDb.Text == "" || txtDb.Text == null))
+                    if (txtServer.Text.IsNullOrEmpty() && txtDb.Text.IsNullOrEmpty())
                     {
                         MessageBox.Show("Plotesoni Serverin dhe Databazen");
                     }
@@ -170,7 +170,7 @@ namespace ProjAl
                 }
                 else
                 {
-                    if ((txtServer.Text == "" || txtServer.Text == null) && (txtDb.Text == "" || txtDb.Text == null) && (txtUn.Text == "" || txtUn.Text == null) && (txtPass.Text == "" || txtPass.Text == null))
+                    if (txtServer.Text.IsNullOrEmpty() && txtDb.Text.IsNullOrEmpty() && txtUn.Text.IsNullOrEmpty() && txtPass.Text.IsNullOrEmpty())
                     {
                         MessageBox.Show("Plotesoni Fushat");
                     }

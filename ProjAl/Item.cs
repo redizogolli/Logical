@@ -92,7 +92,7 @@ namespace ProjAl
         public List<Item> GetAllItems()
         {
             string query = "Select * from dbo.[item] i";
-            using (var connection = new SqlConnection("Data Source=DB\\DESKTOP,1133;Initial Catalog=ProjAl;User Id=proj;Password=112233!;"))
+            using (var connection = new SqlConnection(Configcs.ConnectionString))
             {
                 var items = connection.Query<Item>(query).ToList();
                 return items;

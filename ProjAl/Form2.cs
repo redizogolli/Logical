@@ -403,23 +403,6 @@ namespace ProjAl
             }
             
         }
-        //private void comboBox1_SelectedValueChanged(object sender, EventArgs e)
-        //{
-        //    if (txtemri.Text != "" && txtemri != null)
-        //    {
-        //        search();
-        //    }
-        //}
-
-        //private void materialSingleLineTextField1_KeyPress(object sender, KeyPressEventArgs e)
-        //{
-        //    // MessageBox.Show("Ok");
-        //    if (comboBox1.SelectedIndex != -1)
-        //    {
-        //        search();
-
-        //    }
-        //}
 
         private void btnsearch_Click(object sender, EventArgs e)
         {
